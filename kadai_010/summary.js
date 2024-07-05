@@ -15,7 +15,7 @@ $(function(){
   })
 
   // フェードイン
-  $('#fade-out').on('click', function(){
+  $('#fade-in').on('click', function(){
     $('#target').fadeIn(3500);
   });
 
